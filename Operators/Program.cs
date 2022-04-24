@@ -52,3 +52,6 @@ Console.WriteLine(sayi);
 
 
 
+
+
+
