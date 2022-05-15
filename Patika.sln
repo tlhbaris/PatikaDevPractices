@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patika", "Patika\Patika.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{C207AEC5-D40A-4368-8D0C-F7AD7256E6F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{5726EF51-717C-4A44-8B58-B5A538DA0CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{5726EF51-717C-4A44-8B58-B5A538DA0CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{E4FC9555-0096-4139-A09E-DA5EE8F0A4AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{E4FC9555-0096-4139-A09E-DA5EE8F0A4AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifElse", "ifElse\ifElse.csproj", "{692A1D42-49E1-4201-B8D8-37E306B5931D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifElse", "ifElse\ifElse.csproj", "{692A1D42-49E1-4201-B8D8-37E306B5931D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{7CD34949-510F-439D-92DE-9B6FEA7D6E76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{7CD34949-510F-439D-92DE-9B6FEA7D6E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{BFA81336-15E4-4745-BA96-AA178F28825E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7CD34949-510F-439D-92DE-9B6FEA7D6E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD34949-510F-439D-92DE-9B6FEA7D6E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD34949-510F-439D-92DE-9B6FEA7D6E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA81336-15E4-4745-BA96-AA178F28825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA81336-15E4-4745-BA96-AA178F28825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA81336-15E4-4745-BA96-AA178F28825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA81336-15E4-4745-BA96-AA178F28825E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
